@@ -1,7 +1,7 @@
 {
   "name": "com.jonagill.addressablerequests",
   "description": "Helper API for interfacing with Unity's Addressables system.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "2023.1",
   "displayName": "Addressable Requests",
   "dependencies": {
